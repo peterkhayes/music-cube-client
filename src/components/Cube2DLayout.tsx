@@ -4,7 +4,6 @@ import { Cube, Face, Rotation } from 'music-cube';
 import Cube2DLayoutFace, {
   Cube2DLayoutFacePlaceholder,
 } from 'components/Cube2DLayoutFace';
-import useMusic from 'hooks/useMusic';
 
 const CubeContainer = styled.div`
   display: flex;
@@ -23,10 +22,6 @@ type Props = {
 };
 
 export default function Cube2DLayout({ cube, rotateCube }: Props) {
-  const loaded = useMusic(cube);
-
-  if (!loaded) return <div>Loading...</div>;
-
   return (
     <CubeContainer>
       <CubeContainerRow>

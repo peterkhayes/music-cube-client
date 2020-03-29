@@ -28,9 +28,9 @@ const audioFiles: Record<Face, string> = {
   [Face.Back]: BackWav,
 };
 
-const BPM = 120;
-const BEATS_PER_SLICE = 4;
-const SECONDS_PER_BEAT = 60 / BPM;
-export const SECONDS_PER_SLICE = SECONDS_PER_BEAT * BEATS_PER_SLICE;
+// export const BPM = 120;
+// const BEATS_PER_SLICE = 4;
+// const SECONDS_PER_BEAT = 60 / BPM;
+// export const SECONDS_PER_SLICE = SECONDS_PER_BEAT * BEATS_PER_SLICE;
 
 export default audioFiles;

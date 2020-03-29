@@ -17,6 +17,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
     "styled-components": "^5.0.1",
+    "tone": "^14.5.43",
     "typescript": "~3.7.2"
   },
   "scripts": {
