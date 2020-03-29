@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/music-cube-client/precache-manifest.dfdae88d9cf3b54773dce78354bad94b.js"
+  "/music-cube-client/precache-manifest.82611574680c5d08a88603fcb195499d.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2207c6c8616e8f6f024fa09e5f5be2b1",
+    "revision": "fd73c46efe2671e7cf80ef1b6e2cdfc3",
     "url": "/music-cube-client/index.html"
   },
   {
-    "revision": "4223445bc5aeea7cf918",
+    "revision": "d7b9acc2448295121a89",
     "url": "/music-cube-client/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "0db2e3c9f3553de89efb",
-    "url": "/music-cube-client/static/js/2.52b53adb.chunk.js"
+    "revision": "bb7ef14175d9f1fcd640",
+    "url": "/music-cube-client/static/js/2.0094cfef.chunk.js"
   },
   {
-    "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/music-cube-client/static/js/2.52b53adb.chunk.js.LICENSE.txt"
+    "revision": "28e787dc3e4f56088bd949e004808b2c",
+    "url": "/music-cube-client/static/js/2.0094cfef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4223445bc5aeea7cf918",
-    "url": "/music-cube-client/static/js/main.ac185dde.chunk.js"
+    "revision": "d7b9acc2448295121a89",
+    "url": "/music-cube-client/static/js/main.bb4cbe6a.chunk.js"
   },
   {
     "revision": "dfcc5d2dafe1966ee035",
